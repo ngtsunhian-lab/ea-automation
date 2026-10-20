@@ -4,6 +4,10 @@ A [Claude Code](https://claude.com/claude-code) skill that reads **and writes** 
 
 **Why this exists:** the official Sparx Systems MCP server for EA is read-only (query tools only, no create/update). This skill is the write path: create elements and connectors, place or move them on diagrams, query the model — all driven by Claude through a small PowerShell CLI with JSON output.
 
+## Classroom lab
+
+A 60-minute hands-on lab based on this skill — download it, make it work, then improve it: [English](docs/lab.en.md) · [中文](docs/lab.zh.md)
+
 ## Install
 
 Copy this folder to your Claude Code skills directory:
